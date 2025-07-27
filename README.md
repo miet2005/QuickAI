@@ -105,7 +105,7 @@ VITE_BASE_URL=http://localhost:5173
    ```bash
    cd server
    npm run server
-   # Server runs on http://localhost:5000
+   # Server runs on http://localhost:3000
    ```
    
    **Frontend server (in new terminal):**
